@@ -7,7 +7,7 @@ HashTable Data Structure - Introduction to Hash Tables
 
 Files | Description
 ----------- | -----------
-[.gitignore](./.gitignore) | Ignore test files
+ | 
 [hash_tables.h](./hash_tables.h) | Header file
 [0-hash_table_create.c](./0-hash_table_create.c) | Function that creates a hash table. Prototype: hash_table_t *hash_table_create(unsigned long int size);
 [1-djb2.c](./1-djb2.c) | A hash function implementing the djb2 algorithm. Prototype: unsigned long int hash_djb2(const unsigned char *str);
